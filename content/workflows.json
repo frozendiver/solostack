@@ -1,0 +1,8 @@
+[
+  { "slug": "write-edit-content", "name": "Write and edit content faster", "icon": "megaphone" },
+  { "slug": "automate-admin", "name": "Automate repetitive admin work", "icon": "zap" },
+  { "slug": "design-without-designer", "name": "Design without a designer", "icon": "palette" },
+  { "slug": "close-more-sales", "name": "Close more sales solo", "icon": "check-circle" },
+  { "slug": "handle-support", "name": "Handle support without a team", "icon": "message-circle" },
+  { "slug": "keep-books", "name": "Keep your books in order", "icon": "dollar-sign" }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "slug": "marketing-content",
+    "name": "AI for Marketing & Content",
+    "description": "Writing, repurposing, and scheduling content without a content team.",
+    "icon": "megaphone",
+    "toolCount": 22
+  },
+  {
+    "slug": "productivity-automation",
+    "name": "AI for Productivity & Automation",
+    "description": "Connect tools, automate follow-ups, and clear your inbox faster.",
+    "icon": "zap",
+    "toolCount": 19
+  },
+  {
+    "slug": "design-creative",
+    "name": "AI for Design & Creative Work",
+    "description": "Logos, graphics, and brand assets without hiring a designer.",
+    "icon": "palette",
+    "toolCount": 16
+  },
+  {
+    "slug": "sales-client",
+    "name": "AI for Sales & Client Work",
+    "description": "Outreach, proposals, and follow-ups that don't eat your week.",
+    "icon": "check-circle",
+    "toolCount": 14
+  },
+  {
+    "slug": "customer-support",
+    "name": "AI for Customer Support",
+    "description": "Answer common questions instantly, even while you're offline.",
+    "icon": "message-circle",
+    "toolCount": 12
+  },
+  {
+    "slug": "finance-invoicing",
+    "name": "AI for Finance & Invoicing",
+    "description": "Invoicing, categorizing expenses, and staying ready for tax season.",
+    "icon": "dollar-sign",
+    "toolCount": 11
+  },
+  {
+    "slug": "operations-hr",
+    "name": "AI for Operations & HR",
+    "description": "SOPs, hiring help, and the back-office work that piles up.",
+    "icon": "clipboard",
+    "toolCount": 17
+  },
+  {
+    "slug": "research-insights",
+    "name": "AI for Research & Insights",
+    "description": "Summarize reports, analyze data, and spot patterns fast.",
+    "icon": "search",
+    "toolCount": 16
+  }
+]
