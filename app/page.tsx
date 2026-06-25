@@ -5,7 +5,7 @@ import CategoryGrid from "@/components/CategoryGrid";
 import FeaturedTools from "@/components/FeaturedTools";
 import HowWeCurate from "@/components/HowWeCurate";
 import RecentlyAdded from "@/components/RecentlyAdded";
-import Newsletter from "@/components/Newsletter";
+import BeehiivNewsletter from "@/components/BeehiivNewsletter";
 import SubmitCTA from "@/components/SubmitCTA";
 import Footer from "@/components/Footer";
 
@@ -69,7 +69,7 @@ export default function Home() {
         <FeaturedTools tools={featuredTools} />
         <HowWeCurate />
         <RecentlyAdded tools={recentTools} />
-        <Newsletter />
+        <BeehiivNewsletter />
         <SubmitCTA />
       </main>
       <Footer />
